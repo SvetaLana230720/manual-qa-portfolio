@@ -11,6 +11,8 @@
 ## Материалы
 
 - [Чек-лист](checklist.md)
+- [Тест-кейсы](test-cases.md)
+- [Bug reports](bug-reports/)
 - [Первый прогон тестирования](test-run-2026-09-03.md)
 - [Полный доступный прогон](test-run-2026-09-04-full.md)
 
