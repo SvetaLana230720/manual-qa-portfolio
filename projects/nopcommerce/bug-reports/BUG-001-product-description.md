@@ -2,7 +2,7 @@
 
 **Ссылка:** https://demo.nopcommerce.com/build-your-own-computer  
 **Дата обнаружения:** 2026-09-04  
-**Окружение:** Chrome / desktop  
+**Окружение:** Yandex Browser 26.8.0.1788 (64-bit) / desktop  
 **Тип:** Content / Functional
 
 ## Предусловия
