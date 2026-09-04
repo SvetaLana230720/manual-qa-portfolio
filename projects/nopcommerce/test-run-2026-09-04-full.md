@@ -3,7 +3,7 @@
 **Дата:** 2026-09-04  
 **Сайт:** https://demo.nopcommerce.com/  
 **Тип проверки:** функциональное и UI-тестирование  
-**Окружение:** desktop, браузер Codex In-app Browser
+**Окружение:** desktop, Yandex Browser 26.8.0.1788 (64-bit)
 
 ## Проверено
 
