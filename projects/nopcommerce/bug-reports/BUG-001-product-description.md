@@ -42,3 +42,8 @@
 ## Статус
 
 **Open**
+## Evidence
+
+![Несоответствие описания товара](../evidence/BUG-001-description-evidence.png)
+
+[Открыть изображение отдельно](../evidence/BUG-001-description-evidence.png)
