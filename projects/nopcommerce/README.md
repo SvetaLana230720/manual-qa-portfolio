@@ -11,7 +11,10 @@
 ## Материалы
 
 - [Чек-лист](checklist.md)
+- [Test Plan](test-plan.md)
 - [Тест-кейсы](test-cases.md)
+- [Test Summary Report](test-summary-report.md)
+- [Evidence / Attachments](evidence/)
 - [Bug reports](bug-reports/)
 - [Первый прогон тестирования](test-run-2026-09-03.md)
 - [Полный доступный прогон](test-run-2026-09-04-full.md)
